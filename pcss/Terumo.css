@@ -1,0 +1,152 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.dropdown-menu a{
+	color: black;
+}
+#d .navbar-toggler-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+   
+}
+
+.navbar{
+	background-color: white;
+}
+.navbar-brand img{
+	width: 71%;
+}
+#navbarSupportedContent ul li{
+	padding: 0px 20px;
+}
+#navbarNavDropdown ul li a{
+	color: black;
+}
+#navbarNavDropdown ul li:hover {
+	background-color: rgb(4, 71, 73);
+}
+#navbarSupportedContent ul li a:hover{
+	font-weight: bold;
+	color: rgb(27, 8, 95);
+}
+.rr{
+	color:black;
+}
+.navbar-nav{
+	color: black;
+}
+.header{
+	height: 50px;
+	width: 100%;
+	background-color: blue;
+}
+.header .container .float-left li a{
+	color: white;
+}
+.header .container .float-right li a i{
+	font-size: 15px;
+	color: white;
+}
+#d1{
+	border: none;
+}
+#Services:hover #d1{
+	display: block;
+}
+  
+ #d .navbar-toggler-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+   
+}
+
+#d1{
+    border: none;
+}
+#d2{
+    border:none;
+}
+#d2 a:hover{
+    border-bottom:2px solid darkblue;
+}
+#d1 a:hover{
+    border-bottom:2px solid darkblue;
+
+
+}
+.banner .row{
+	width: 100%;
+}
+.banner .row .mm video{
+    width: 100%;
+	height: auto;
+    border-bottom-right-radius:500px;
+    border-top-right-radius:500px;
+    border:none;
+}
+.banner .row .jj h1{
+	font-size:10vw;
+	padding-top:3vw;
+
+}
+#product .row .col-md-3 .card img{
+	width:100%;
+	
+}
+
+
+#product:hover .card .card-body a{
+	background: #ff568f;
+
+}
+
+
+#product .row .col-md-3 .card{
+	display: inline-block;
+	width:100%;
+	background: #ebf5fc;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+	border-radius: 15px;
+	justify-content: center;
+	align-items: center;
+	transition:0.5s;
+
+}
+
+
+#product .row .col-md-3 .card .card-body{
+	text-align: center;
+
+}
+
+#product .row .col-md-3 .card .card-body .card-title{
+	
+	color: #777;
+	transition: 0.6s;
+	z-index: 1;
+
+}
+#product .row .col-md-3 .card .card-body button{
+    border-radius: 20px;
+    border: none;
+    background-color:rgb(126, 187, 189);
+    color: cornsilk;
+}
+
+ 
+
+
+
+
+
+#product  h1{
+
+	border-bottom:5px solid darkgray;
+
+}
+#body{
+	height: 350px;
+	overflow-y: auto;
+}
+
+
